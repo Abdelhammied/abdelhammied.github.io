@@ -23,7 +23,7 @@ export default {};
         <hr />
 
         <p class="info">
-            i'm abdelhammied elsayed another senior full stack developer. <br />
+            i'm abdelhammied elsayed senior full stack developer. <br />
             <br />
 
             with high
