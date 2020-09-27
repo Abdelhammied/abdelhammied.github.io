@@ -51,7 +51,7 @@ export default {
 <template>
     <div class="container app-container">
         <div class="row">
-            <div class="col-md-4 col-sm-12">
+            <div class="col-md-4 col-sm-12 mb-3">
                 <Card
                     :user="user"
                     :components="components"
