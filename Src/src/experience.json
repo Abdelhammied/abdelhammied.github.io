@@ -1,9 +1,30 @@
 [{
+        "companyName": "Codeevoo",
+        "companyWebsite": "https://www.codeevoo.com/",
+        "period": "December 2021 - Present",
+        "jobTitle": "Senior NodeJs Engineer",
+        "jobType": "Contract Based"
+    },
+    {
+        "companyName": "Squadio [ Formerly Ibtikar ]",
+        "companyWebsite": "https://squadio.com/",
+        "period": "September 2021 - Present",
+        "jobTitle": "Senior React JS Engineer",
+        "jobType": "Contract Based"
+    },
+    {
         "companyName": "Crossworkers-Egypt",
         "companyWebsite": "https://www.crossworkers-egypt.com/",
-        "period": "Aug 2020 - present",
+        "period": "August 2020 - Present",
         "jobTitle": "Senior Full Stack Develeoper",
         "jobType": "Full Time"
+    },
+    {
+        "companyName": "Codeevoo",
+        "companyWebsite": "https://www.codeevoo.com/",
+        "period": "January 2021 - August 2021",
+        "jobTitle": "Senior Laravel Engineer",
+        "jobType": "Contract Based"
     },
     {
         "companyName": "Bispace",
@@ -15,28 +36,28 @@
     {
         "companyName": "Mesmak Egypt",
         "companyWebsite": "https://www.facebook.com/mesmakcompany/",
-        "period": "Jan 2020 - Aug 2020",
+        "period": "January 2020 - August 2020",
         "jobTitle": "Full Stack Instructor",
         "jobType": "Freelancer"
     },
     {
         "companyName": "SmartappCO",
         "companyWebsite": "https://smartappco.com/",
-        "period": "March 2019 - Aug 2020",
+        "period": "March 2019 - August 2020",
         "jobTitle": "Senior Full Stack Develeoper",
         "jobType": "Part Time"
     },
     {
         "companyName": "Corpy Core",
         "companyWebsite": "https://corpy.net/",
-        "period": "Nov 2018 - March 2019",
+        "period": "November 2018 - March 2019",
         "jobTitle": "Mid Senior Backend Develeoper",
         "jobType": "Full Time"
     },
     {
         "companyName": "Im Holding",
         "companyWebsite": "https://www.imholding.com/",
-        "period": "March 2017 - Nov 2018",
+        "period": "March 2017 - November 2018",
         "jobTitle": "Junior PHP Developer",
         "jobType": "Full Time"
     }
